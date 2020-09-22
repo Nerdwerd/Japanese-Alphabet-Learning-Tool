@@ -1,0 +1,7 @@
+What this program should have:
+1. Select which alphabet to study.
+2. Match the sound with the letter.
+3. Eventually write in Japanese.
+4. Play the sound of the letter.
+5. Lots of customization. 
+6. Timed challenges.
